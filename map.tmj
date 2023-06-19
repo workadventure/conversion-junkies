@@ -2810,7 +2810,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Conversion Junkies"
+         "value":"Workspace"
         }, 
         {
          "name":"script",
